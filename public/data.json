@@ -1,0 +1,148 @@
+{
+  "StockData": [
+    {
+      "stockname": "NiftyBank",
+      "cost": "41,223.45",
+      "percent": "0.01%"
+    },
+    {
+      "stockname": "BajFinance",
+      "cost": "36,742.92",
+      "percent": "0.30%"
+    },
+    {
+      "stockname": "BhartiArtl",
+      "cost": "40,286.45",
+      "percent": "0.69%"
+    },
+    {
+      "stockname": "HdfcBank",
+      "cost": "322.34",
+      "percent": "0.74%"
+    },
+    {
+      "stockname": "HindUnilvr",
+      "cost": "478.79",
+      "percent": "0.36%"
+    },
+    {
+      "stockname": "Indigo",
+      "cost": "5,544.32",
+      "percent": "0.23%"
+    }
+  ],
+
+  "FeaturedCompanies": [
+    {
+      "company": "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/caprinew1.jpg"
+    },
+    {
+      "company": "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/ganeshhousing.jpg"
+    },
+    {
+      "company": "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/fino.png"
+    },
+    {
+      "company": "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/gravita.jpg"
+    },
+    {
+      "company": "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/godawari.jpg"
+    },
+    {
+      "company": "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/dtpatten1.png"
+    },
+    {
+      "company": "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/deepind.png"
+    },
+    {
+      "company": "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/caprinew1.jpg"
+    },
+    {
+      "company": "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/ganeshhousing.jpg"
+    },
+    {
+      "company": "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/fino.png"
+    },
+    {
+      "company": "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/gravita.jpg"
+    },
+    {
+      "company": "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/godawari.jpg"
+    },
+    {
+      "company": "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/dtpatten1.png"
+    }
+  ],
+
+  "Forum" : [
+    {
+      "image" : "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/infibeamavenues.png",
+      "name" : "Lorem ipsum",
+      "sector" : "Sector 1",
+      "text" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi placeat impedit minus sunt autem."
+    },
+    {
+      "image" : "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/dtpatten1.png",
+      "name" : "amet consectetur",
+      "sector" : "Sector 2",
+      "text" : "Dolor sit rem culpar sit amet consectetur adipisicing elit. Ea quidem non provident quo."
+    },
+    {
+      "image" : "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/infibeamavenues.png",
+      "name" : "Nemo eligendi",
+      "sector" : "Sector 1",
+      "text" : "Ipsa ab dolore, officiis incidunt vitae ad amet consectetur adipisicing elit. Cum ipsum laboriosam."
+    },
+    {
+      "image" : "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/gravita.jpg",
+      "name" : "adipisicing elit",
+      "sector" : "Sector 3",
+      "text" : "Maxime autem perspiciatis amet consectetur adipisicing elit. Odio doloribus aliquid sed porro nobis"
+    },
+    {
+      "image" : "https://s3.ap-south-1.amazonaws.com/goindiaconnect/UPLOADS/deepind.png",
+      "name" : "optio minima",
+      "sector" : "Sector 2",
+      "text" : "Amet consectetur adipisicing elit. Provident Expedita aliquid excepturi inventore possimus Quisquam"
+    }
+  ],
+
+  "Stories" : [
+    {
+      "image" : "https://images.pexels.com/photos/5691263/pexels-photo-5691263.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "story" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam autem."
+    },
+    {
+      "image" : "https://images.pexels.com/photos/5691263/pexels-photo-5691263.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "story" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam autem."
+    },
+    {
+      "image" : "https://images.pexels.com/photos/5691263/pexels-photo-5691263.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "story" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam autem."
+    },
+    {
+      "image" : "https://images.pexels.com/photos/5691263/pexels-photo-5691263.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "story" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam autem."
+    },
+    {
+      "image" : "https://images.pexels.com/photos/5691263/pexels-photo-5691263.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "story" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam autem."
+    },
+    {
+      "image" : "https://images.pexels.com/photos/5691263/pexels-photo-5691263.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "story" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam autem."
+    },
+    {
+      "image" : "https://images.pexels.com/photos/5691263/pexels-photo-5691263.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "story" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam autem."
+    },
+    {
+      "image" : "https://images.pexels.com/photos/5691263/pexels-photo-5691263.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "story" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam autem."
+    },
+    {
+      "image" : "https://images.pexels.com/photos/5691263/pexels-photo-5691263.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "story" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam autem."
+    }
+  ]
+}
